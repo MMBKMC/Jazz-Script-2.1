@@ -1,0 +1,5 @@
+// move
+
+a >= "Hello World"
+
+move [a, to 5]
